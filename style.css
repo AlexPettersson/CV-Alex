@@ -1,0 +1,23 @@
+header{
+    background-color: #6e85b7;
+    height: 30px;
+}
+
+body{
+    background-color: #c4d7e0;
+}
+
+h3{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    color: white;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
